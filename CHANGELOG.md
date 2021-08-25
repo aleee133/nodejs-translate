@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/nodejs-translate?activeTab=versions
 
+## [6.3.0](https://www.github.com/googleapis/nodejs-translate/compare/v6.2.7...v6.3.0) (2021-08-25)
+
+
+### Features
+
+* turns on self-signed JWT feature flag ([#713](https://www.github.com/googleapis/nodejs-translate/issues/713)) ([41062a6](https://www.github.com/googleapis/nodejs-translate/commit/41062a675ae8bb19d921b5612ae325383d219725))
+
+
+### Bug Fixes
+
+* add missing annotation for batch document translation ([#715](https://www.github.com/googleapis/nodejs-translate/issues/715)) ([b893e3d](https://www.github.com/googleapis/nodejs-translate/commit/b893e3dcc532813d29d96950fc90962215ad6e51))
+
 ### [6.2.7](https://www.github.com/googleapis/nodejs-translate/compare/v6.2.6...v6.2.7) (2021-08-17)
 
 
